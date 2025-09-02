@@ -1,0 +1,55 @@
+D:\Sistemas de Información III\proyecto\Ventas\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Sistemas de Información III\proyecto\Ventas\Domain\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Domain\obj\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Ventas1\Ventas1\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Ventas1\Ventas1\Domain\bin\Debug\net8.0\Domain.dll
+D:\Ventas1\Ventas1\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Ventas1\Ventas1\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ventas1\Ventas1\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Ventas1\Ventas1\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Ventas1\Ventas1\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Ventas1\Ventas1\Domain\obj\Debug\net8.0\Domain.dll
+D:\Ventas1\Ventas1\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Ventas1\Ventas1\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Ventas1\Ventas1\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\obj\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Ventas\Ventas\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Ventas\Ventas\Domain\bin\Debug\net8.0\Domain.dll
+D:\Ventas\Ventas\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.dll
+D:\Ventas\Ventas\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Ventas\Ventas\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,75 @@
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\bin\Debug\net8.0\Aplication.deps.json
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\bin\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\bin\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+D:\Ventas1\Ventas1\Aplication\bin\Debug\net8.0\Aplication.deps.json
+D:\Ventas1\Ventas1\Aplication\bin\Debug\net8.0\Aplication.dll
+D:\Ventas1\Ventas1\Aplication\bin\Debug\net8.0\Aplication.pdb
+D:\Ventas1\Ventas1\Aplication\bin\Debug\net8.0\Domain.dll
+D:\Ventas1\Ventas1\Aplication\bin\Debug\net8.0\Domain.pdb
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\Aplication.dll
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\Aplication.pdb
+D:\Ventas1\Ventas1\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\bin\Debug\net8.0\Aplication.deps.json
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\bin\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\bin\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+D:\Ventas\Ventas\Aplication\bin\Debug\net8.0\Aplication.deps.json
+D:\Ventas\Ventas\Aplication\bin\Debug\net8.0\Aplication.dll
+D:\Ventas\Ventas\Aplication\bin\Debug\net8.0\Aplication.pdb
+D:\Ventas\Ventas\Aplication\bin\Debug\net8.0\Domain.dll
+D:\Ventas\Ventas\Aplication\bin\Debug\net8.0\Domain.pdb
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.dll
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.pdb
+D:\Ventas\Ventas\Aplication\obj\Debug\net8.0\ref\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\bin\Debug\net8.0\Aplication.deps.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\bin\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\bin\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Aplication\obj\Debug\net8.0\ref\Aplication.dll

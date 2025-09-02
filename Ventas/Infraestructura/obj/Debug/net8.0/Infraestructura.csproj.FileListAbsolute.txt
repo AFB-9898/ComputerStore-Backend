@@ -1,0 +1,85 @@
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.deps.json
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.runtimeconfig.json
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraest.8F2C356E.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\refint\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.genruntimeconfig.cache
+D:\Sistemas de Información III\proyecto\Ventas\Infraestructura\obj\Debug\net8.0\ref\Infraestructura.dll
+D:\Ventas1\Ventas1\Infraestructura\bin\Debug\net8.0\Infraestructura.deps.json
+D:\Ventas1\Ventas1\Infraestructura\bin\Debug\net8.0\Infraestructura.runtimeconfig.json
+D:\Ventas1\Ventas1\Infraestructura\bin\Debug\net8.0\Infraestructura.dll
+D:\Ventas1\Ventas1\Infraestructura\bin\Debug\net8.0\Infraestructura.pdb
+D:\Ventas1\Ventas1\Infraestructura\bin\Debug\net8.0\Domain.dll
+D:\Ventas1\Ventas1\Infraestructura\bin\Debug\net8.0\Domain.pdb
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.AssemblyReference.cache
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfoInputs.cache
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfo.cs
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraest.8F2C356E.Up2Date
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.dll
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\refint\Infraestructura.dll
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.pdb
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.genruntimeconfig.cache
+D:\Ventas1\Ventas1\Infraestructura\obj\Debug\net8.0\ref\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\bin\Debug\net8.0\Infraestructura.deps.json
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\bin\Debug\net8.0\Infraestructura.runtimeconfig.json
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\bin\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\bin\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraest.8F2C356E.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\refint\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\Infraestructura.genruntimeconfig.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Infraestructura\obj\Debug\net8.0\ref\Infraestructura.dll
+D:\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.deps.json
+D:\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.runtimeconfig.json
+D:\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.dll
+D:\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.pdb
+D:\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Domain.dll
+D:\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Domain.pdb
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.AssemblyReference.cache
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfoInputs.cache
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfo.cs
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraest.8F2C356E.Up2Date
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.dll
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\refint\Infraestructura.dll
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.pdb
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.genruntimeconfig.cache
+D:\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\ref\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.deps.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.runtimeconfig.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraest.8F2C356E.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\refint\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\Infraestructura.genruntimeconfig.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Infraestructura\obj\Debug\net8.0\ref\Infraestructura.dll

@@ -1,0 +1,763 @@
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\appsettings.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Api.exe
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Api.deps.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Api.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.ClientModel.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\refint\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+D:\Sistemas de Información III\proyecto\Ventas\Api\obj\Debug\net8.0\ref\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Humanizer.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\appsettings.json
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Api.exe
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Api.deps.json
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Api.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Api.pdb
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Humanizer.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.ClientModel.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Aplication.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Domain.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Infraestructura.dll
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Aplication.pdb
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Domain.pdb
+D:\Ventas1\Ventas1\Api\bin\Debug\net8.0\Infraestructura.pdb
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.dll
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\refint\Api.dll
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.pdb
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+D:\Ventas1\Ventas1\Api\obj\Debug\net8.0\ref\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\appsettings.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Api.exe
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Api.deps.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Api.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Humanizer.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.ClientModel.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Api\bin\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\refint\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.pdb
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+D:\Sistemas de Información III\proyecto\Ventas1\Api\obj\Debug\net8.0\ref\Api.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\appsettings.json
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Api.exe
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Api.deps.json
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Api.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Api.pdb
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Humanizer.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.ClientModel.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Aplication.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Domain.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Infraestructura.dll
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Aplication.pdb
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Domain.pdb
+D:\Ventas\Ventas\Api\bin\Debug\net8.0\Infraestructura.pdb
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.dll
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\refint\Api.dll
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.pdb
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+D:\Ventas\Ventas\Api\obj\Debug\net8.0\ref\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\appsettings.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Api.exe
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Api.deps.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Api.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Humanizer.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.ClientModel.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Aplication.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Domain.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Infraestructura.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Aplication.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Domain.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\bin\Debug\net8.0\Infraestructura.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\refint\Api.dll
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.pdb
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+D:\Sistemas de Información III\proyecto\Ventas\Ventas\Api\obj\Debug\net8.0\ref\Api.dll
